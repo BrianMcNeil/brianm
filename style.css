@@ -1,12 +1,32 @@
 body
 {
-background-color:yellow;
+ background-image:url('https://f.cloud.github.com/assets/5033770/949691/3e2c7182-0382-11e3-961e-b67776d4d6b4.jpg');
 }
+
 h1
+ {
+ color:Chartreuse;
+ }
+
+.container {background-color:Grey;}
+
+h2
+ {
+  color:Chartreuse;
+ }
+ 
+li
+  {
+  color:Chartreuse;
+ }
+ 
+h3
+  {
+  color:Chartreuse;
+ }
+ 
+img
 {
-background-color:#00ff00;
-}
-p
-{
-background-color:rgb(255,0,255);
+opacity:0.4;
+filter:alpha(opacity=40); /* For IE8 and earlier */
 }
